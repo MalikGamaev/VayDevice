@@ -1,0 +1,11 @@
+.image{
+	background: url('../assets/bigStar.png');
+	width: 250px;
+	height: 240px;
+	background-size: cover;
+	font-size: 64px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
